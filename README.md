@@ -1,7 +1,5 @@
 # Smart-Waste-Storing
-Smart waste management system using IoT sensors.
 
-## Description
 A smart waste management system that uses IoT sensors to identify and sort different types of waste (dry and wet) automatically, promoting recycling and reducing contamination.
 
 ## Requirements
